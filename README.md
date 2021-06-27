@@ -4,6 +4,8 @@ Class32
 Youtube link:
 https://youtu.be/Ekc27UPVO5A
 
+https://youtu.be/Hq7KGsfkq5I
+
 To do list:
 c32 -
 1)Sound files loading
